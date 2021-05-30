@@ -5,5 +5,6 @@ pip install -r requirements.txt
 ### 2.run
 python demo.py/ count_car.py/ count_person.py
 ### 3.dataset
-https://github.com/ysh-strive/car_dataset.git
-https://motchallenge.net/ # for person
+（1）https://github.com/ysh-strive/car_dataset.git
+
+（2）https://motchallenge.net/ # for person
